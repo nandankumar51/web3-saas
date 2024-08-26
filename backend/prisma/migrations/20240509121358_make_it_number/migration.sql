@@ -6,4 +6,4 @@
 */
 -- AlterTable
 ALTER TABLE "Task" DROP COLUMN "amount",
-ADD COLUMN     "amount" INTEGER NOT NULL;
+ADD COLUMN     "amount" INTEGER NOT NULL; 
